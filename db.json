@@ -1,0 +1,109 @@
+{
+    "english-moments-solution-9":[
+        {  
+        "id":1,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-1 The Lost Child",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-1.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-1.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-2 The Adventures of Toto",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-2.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-2.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":3,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-3 Iswaran the Storyteller",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-3.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-3.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      },
+      {
+        "id":4,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-4 In the Kingdom of Fools",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-4.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-4.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-5 The Happy Prince",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-5.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-5.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-6 Weathering the Storm in Ersama",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-6.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-6.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-7 The Last Leaf",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-7.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-7.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-8 A House is not a Home",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-8.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-8.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"English",
+        "image":"English",
+        "description":"English - Chapter-9  The Accidental Tourist",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-9.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-9.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"English",
+        "image":"English",
+        "description":"English -  Chapter-10  The Beggar",
+        "download":"assets/images/courses-9/solution/english/english-9-moments-chapter-10.pdf",
+        "view":"assets/images/courses-9/solution/english/english-9-moments-chapter-10.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      }
+    ]
+}
